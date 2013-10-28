@@ -1,0 +1,22 @@
+{
+  "name": "connect-disable-304",
+  "version": "0.0.0",
+  "description": "connect middleware for disabling 304 HTTP Status Code and have a no-cache server.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/emanuelbsilva/connect-disable-304.git"
+  },
+  "author": "Emanuel Silva",
+  "license": "BSD",
+  "readmeFilename": "README.md",
+  "gitHead": "16dc997304699ab49d176edbf90603715795ea37",
+  "keywords": [
+    "connect",
+    "no-cache",
+    "disable 304"
+  ]
+}
